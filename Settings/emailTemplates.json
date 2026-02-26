@@ -1,0 +1,29 @@
+[
+    {
+        "name": "projects/spsstg-tsjkk/locations/global/instances/397fdff2-4666-4fa9-bab9-9ca374e6ab88/emailTemplates/3",
+        "templateType": "Template",
+        "author": "1ee9a22d-b7d2-4d6f-9bef-46a1eef125de",
+        "id": 3,
+        "content": "Subject: Question regarding [Topic/Project]\nBody:\nHi {Name},\nMy name is {Your Name} and I\u2019m reaching out because I saw your work on {Platform/Project}.\nCould you tell me who handles {Specific Function} at {Company}?\nThanks in advance,\n{Your Name}",
+        "displayName": "Playground_1P_Email_Template_3",
+        "environments": "[\"*\"]"
+    },
+    {
+        "name": "projects/spsstg-tsjkk/locations/global/instances/397fdff2-4666-4fa9-bab9-9ca374e6ab88/emailTemplates/2",
+        "templateType": "Template",
+        "author": "1ee9a22d-b7d2-4d6f-9bef-46a1eef125de",
+        "id": 2,
+        "content": "Subject: Question regarding [Topic/Project]\nBody:\nHi {Name},\nMy name is {Your Name} and I\u2019m reaching out because I saw your work on {Platform/Project}.\nCould you tell me who handles {Specific Function} at {Company}?\nThanks in advance,\n{Your Name}",
+        "displayName": "Playground_1P_Email_Template_2",
+        "environments": "[\"B_Playground_1P\",\"Default Environment\"]"
+    },
+    {
+        "name": "projects/spsstg-tsjkk/locations/global/instances/397fdff2-4666-4fa9-bab9-9ca374e6ab88/emailTemplates/1",
+        "templateType": "Template",
+        "author": "1ee9a22d-b7d2-4d6f-9bef-46a1eef125de",
+        "id": 1,
+        "content": "Subject: Question regarding [Topic/Project]\nBody:\nHi {Name},\nMy name is {Your Name} and I\u2019m reaching out because I saw your work on {Platform/Project}.\nCould you tell me who handles {Specific Function} at {Company}?\nThanks in advance,\n{Your Name}",
+        "displayName": "Playground_1P_Email_Template_1",
+        "environments": "[\"A_Playground_1P\",\"C_Playground_1P\"]"
+    }
+]
