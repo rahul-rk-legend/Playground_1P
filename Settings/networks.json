@@ -1,0 +1,26 @@
+[
+    {
+        "name": "projects/spsstg-tsjkk/locations/global/instances/397fdff2-4666-4fa9-bab9-9ca374e6ab88/soarNetworks/3",
+        "id": 3,
+        "displayName": "Playground_1P_Networks_3",
+        "address": "192.168.0.3/3",
+        "environmentsJson": "[\"*\"]",
+        "priority": 3
+    },
+    {
+        "name": "projects/spsstg-tsjkk/locations/global/instances/397fdff2-4666-4fa9-bab9-9ca374e6ab88/soarNetworks/2",
+        "id": 2,
+        "displayName": "Playground_1P_Networks_2",
+        "address": "192.168.0.2/2",
+        "environmentsJson": "[\"Default Environment\",\"B_Playground_1P\",\"A_Playground_1P\"]",
+        "priority": 5
+    },
+    {
+        "name": "projects/spsstg-tsjkk/locations/global/instances/397fdff2-4666-4fa9-bab9-9ca374e6ab88/soarNetworks/1",
+        "id": 1,
+        "displayName": "Playground_1P_Networks_1",
+        "address": "192.168.0.1/1",
+        "environmentsJson": "[\"C_Playground_1P\",\"B_Playground_1P\"]",
+        "priority": 1
+    }
+]
