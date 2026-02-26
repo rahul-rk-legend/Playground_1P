@@ -1,0 +1,57 @@
+[
+    {
+        "name": "projects/spsstg-tsjkk/locations/global/instances/397fdff2-4666-4fa9-bab9-9ca374e6ab88/slaDefinitions/4",
+        "id": 4,
+        "slaType": "AlertPriority",
+        "slaTypeValue": "[\"High\"]",
+        "slaPeriod": 5.0,
+        "slaPeriodTimeUnit": "Days",
+        "criticalSlaPeriod": 4.0,
+        "criticalSlaPeriodTimeUnit": "Hours",
+        "environments": [
+            "*"
+        ]
+    },
+    {
+        "name": "projects/spsstg-tsjkk/locations/global/instances/397fdff2-4666-4fa9-bab9-9ca374e6ab88/slaDefinitions/3",
+        "id": 3,
+        "slaType": "CasePriority",
+        "slaTypeValue": "[\"Low\"]",
+        "slaPeriod": 5.0,
+        "slaPeriodTimeUnit": "Days",
+        "criticalSlaPeriod": 4.0,
+        "criticalSlaPeriodTimeUnit": "Days",
+        "environments": [
+            "*"
+        ]
+    },
+    {
+        "name": "projects/spsstg-tsjkk/locations/global/instances/397fdff2-4666-4fa9-bab9-9ca374e6ab88/slaDefinitions/2",
+        "id": 2,
+        "slaType": "CaseStage",
+        "slaTypeValue": "[\"Research\",\"Playground_1P_Case_Stage_2\"]",
+        "slaPeriod": 5.0,
+        "slaPeriodTimeUnit": "Hours",
+        "criticalSlaPeriod": 4.0,
+        "criticalSlaPeriodTimeUnit": "Hours",
+        "environments": [
+            "Default Environment",
+            "B_Playground_1P"
+        ]
+    },
+    {
+        "name": "projects/spsstg-tsjkk/locations/global/instances/397fdff2-4666-4fa9-bab9-9ca374e6ab88/slaDefinitions/1",
+        "id": 1,
+        "slaType": "AlertRuleGenerator",
+        "alertType": "SpecificAlerts",
+        "slaTypeValue": "[\"Phishing email detector\"]",
+        "slaPeriod": 5.0,
+        "slaPeriodTimeUnit": "Minutes",
+        "criticalSlaPeriod": 4.0,
+        "criticalSlaPeriodTimeUnit": "Minutes",
+        "environments": [
+            "C_Playground_1P",
+            "A_Playground_1P"
+        ]
+    }
+]
