@@ -1,0 +1,50 @@
+[
+    {
+        "name": "projects/spsstg-tsjkk/locations/global/instances/397fdff2-4666-4fa9-bab9-9ca374e6ab88/caseStageDefinitions/8",
+        "id": 8,
+        "displayName": "Playground_1P_Case_Stage_2",
+        "order": 19
+    },
+    {
+        "name": "projects/spsstg-tsjkk/locations/global/instances/397fdff2-4666-4fa9-bab9-9ca374e6ab88/caseStageDefinitions/7",
+        "id": 7,
+        "displayName": "Playground_1P_Case_Stage_1",
+        "order": 13
+    },
+    {
+        "name": "projects/spsstg-tsjkk/locations/global/instances/397fdff2-4666-4fa9-bab9-9ca374e6ab88/caseStageDefinitions/6",
+        "id": 6,
+        "displayName": "Research",
+        "order": 6
+    },
+    {
+        "name": "projects/spsstg-tsjkk/locations/global/instances/397fdff2-4666-4fa9-bab9-9ca374e6ab88/caseStageDefinitions/5",
+        "id": 5,
+        "displayName": "Improvement",
+        "order": 5
+    },
+    {
+        "name": "projects/spsstg-tsjkk/locations/global/instances/397fdff2-4666-4fa9-bab9-9ca374e6ab88/caseStageDefinitions/4",
+        "id": 4,
+        "displayName": "Incident",
+        "order": 4
+    },
+    {
+        "name": "projects/spsstg-tsjkk/locations/global/instances/397fdff2-4666-4fa9-bab9-9ca374e6ab88/caseStageDefinitions/3",
+        "id": 3,
+        "displayName": "Investigation",
+        "order": 3
+    },
+    {
+        "name": "projects/spsstg-tsjkk/locations/global/instances/397fdff2-4666-4fa9-bab9-9ca374e6ab88/caseStageDefinitions/2",
+        "id": 2,
+        "displayName": "Assessment",
+        "order": 2
+    },
+    {
+        "name": "projects/spsstg-tsjkk/locations/global/instances/397fdff2-4666-4fa9-bab9-9ca374e6ab88/caseStageDefinitions/1",
+        "id": 1,
+        "displayName": "Triage",
+        "order": 1
+    }
+]
