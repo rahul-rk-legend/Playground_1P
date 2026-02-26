@@ -6,7 +6,10 @@
             " MicrosoftAzureSentinel, MicrosoftGraphMailDelegated": "Adding a readme on",
             " MicrosoftAzureSentinel": "Adding a readme on"
         },
-        "Visual Family": {},
+        "Visual Family": {
+            "Playground_1P_Visual_Families_5": "Adding a readme on",
+            "Playground_1P_Visual_Families_4": "Adding a readme on"
+        },
         "Playbook": {},
         "Connector": {},
         "Job": {
