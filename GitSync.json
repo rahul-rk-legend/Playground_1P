@@ -3,7 +3,8 @@
     "readme_addons": {
         "Integration": {},
         "Mappings": {
-            " MicrosoftAzureSentinel, MicrosoftGraphMailDelegated": "Adding a readme on"
+            " MicrosoftAzureSentinel, MicrosoftGraphMailDelegated": "Adding a readme on",
+            " MicrosoftAzureSentinel": "Adding a readme on"
         },
         "Visual Family": {},
         "Playbook": {},
