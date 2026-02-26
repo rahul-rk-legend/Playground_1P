@@ -1,0 +1,23 @@
+[
+    {
+        "id": 3,
+        "name": "projects/spsstg-tsjkk/locations/global/instances/397fdff2-4666-4fa9-bab9-9ca374e6ab88/customLists/3",
+        "category": "URL",
+        "entityIdentifier": "Playground_1P_Custom_List_3",
+        "environments": "[\"*\"]"
+    },
+    {
+        "id": 2,
+        "name": "projects/spsstg-tsjkk/locations/global/instances/397fdff2-4666-4fa9-bab9-9ca374e6ab88/customLists/2",
+        "category": "Hostname",
+        "entityIdentifier": "Playground_1P_Custom_List_2",
+        "environments": "[\"C_Playground_1P\",\"Default Environment\"]"
+    },
+    {
+        "id": 1,
+        "name": "projects/spsstg-tsjkk/locations/global/instances/397fdff2-4666-4fa9-bab9-9ca374e6ab88/customLists/1",
+        "category": "Domain",
+        "entityIdentifier": "Playground_1P_Custom_List_1",
+        "environments": "[\"B_Playground_1P\",\"A_Playground_1P\"]"
+    }
+]
