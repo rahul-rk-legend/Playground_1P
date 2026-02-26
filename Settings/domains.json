@@ -1,0 +1,26 @@
+[
+    {
+        "alias": "projects/spsstg-tsjkk/locations/global/instances/397fdff2-4666-4fa9-bab9-9ca374e6ab88/soarDomains/3",
+        "id": 3,
+        "domain": "Playground_1P_Domain_3",
+        "environments": "[\"*\"]",
+        "creationTimeUnixTimeInMs": 0,
+        "modificationTimeUnixTimeInMs": 0
+    },
+    {
+        "alias": "projects/spsstg-tsjkk/locations/global/instances/397fdff2-4666-4fa9-bab9-9ca374e6ab88/soarDomains/2",
+        "id": 2,
+        "domain": "Playground_1P_Domain_2",
+        "environments": "[\"B_Playground_1P\",\"Default Environment\"]",
+        "creationTimeUnixTimeInMs": 0,
+        "modificationTimeUnixTimeInMs": 0
+    },
+    {
+        "alias": "projects/spsstg-tsjkk/locations/global/instances/397fdff2-4666-4fa9-bab9-9ca374e6ab88/soarDomains/1",
+        "id": 1,
+        "domain": "Playground_1P_Domain_1",
+        "environments": "[\"C_Playground_1P\",\"A_Playground_1P\"]",
+        "creationTimeUnixTimeInMs": 0,
+        "modificationTimeUnixTimeInMs": 0
+    }
+]
