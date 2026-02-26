@@ -6,7 +6,10 @@
         "Visual Family": {},
         "Playbook": {},
         "Connector": {},
-        "Job": {}
+        "Job": {
+            "projects/spsstg-tsjkk/locations/global/instances/397fdff2-4666-4fa9-bab9-9ca374e6ab88/integrations/MicrosoftGraphMailDelegated/jobs/43/jobInstances/8": "Adding a readme on ",
+            "projects/spsstg-tsjkk/locations/global/instances/397fdff2-4666-4fa9-bab9-9ca374e6ab88/integrations/MicrosoftAzureSentinel/jobs/42/jobInstances/7": "Adding a readme on "
+        }
     },
     "settings": {
         "update_root_readme": true
